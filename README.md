@@ -10,8 +10,6 @@ This project is made for ENGR151 - Accelerated Introduction to Computer and Prog
 
 - Author: b.suvonov
 - Name: Bunyod Suvonov
-- Student ID: 522370990020
-- Group: hgroup-09
 
 # Overview
 Thank you for visiting my Open-Source Project. This project is under development now, but you can still try out the p1.1 release. This is a simple game written using the Matlab programming language.
