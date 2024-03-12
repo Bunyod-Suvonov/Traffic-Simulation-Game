@@ -1,6 +1,6 @@
 VG151 matlab project I've done in 2022, nostalgia!
 
-[![Watch the video](https://img.youtube.com/vi/nTQUwghvy5Q/default.jpg)](https://youtu.be/G2oDc8FMyRg)
+[![Watch the video](https://img.youtube.com/vi/G2oDc8FMyRg&t=8s/0.jpg)](https://youtu.be/G2oDc8FMyRg)
 
 ## Traffic Simulation Game
 This project is made for ENGR151 - Accelerated Introduction to Computer and Programming led by Manuel Charlemagne
